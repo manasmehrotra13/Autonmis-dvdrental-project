@@ -24,3 +24,7 @@ PostgreSQL, SQL (joins, CTEs, window functions, date functions), the Autonmis pl
 - `DVD Rental Market Insights and Performance Analysis.pdf`: the write-up
 - `dvdrental dashboard.pdf`: the dashboard
 - two images
+
+---
+
+Part of my **internship at Autonmis** (Dec 2024 – May 2025). [See all my Autonmis repos](https://github.com/manasmehrotra13?tab=repositories&q=Autonmis&sort=name) · [Back to my profile](https://github.com/manasmehrotra13)
